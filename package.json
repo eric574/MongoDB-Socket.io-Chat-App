@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/eric574/MongoDB-Socket.io-Chat-App#readme",
   "dependencies": {
-    "mongodb": "^2.2.31",
+    "mongodb": "^3.6.1",
     "socket.io": "^2.0.3"
   }
 }
